@@ -1,1 +1,1 @@
-# GameOfTrust
+# Game Of Trust
